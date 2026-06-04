@@ -1,0 +1,4 @@
+model,train_accuracy,test_accuracy,overfit_gap,test_balanced_accuracy,test_f1_weighted
+Logistic Regression,0.7679,0.7183,0.0495,0.6907,0.7217
+Decision Tree,0.8179,0.7183,0.0995,0.6987,0.7219
+Random Forest,0.825,0.7183,0.1067,0.7268,0.7218
