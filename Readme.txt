@@ -1,4 +1,4 @@
-*Intern Portfolio Readiness Scorer:*
+Intern Portfolio Readiness Scorer:
 
 The Intern Portfolio Readiness Scorer is a machine learning based web application that helps students and freshers check how ready their resume is for internship opportunities.
 
@@ -6,7 +6,7 @@ This project analyzes resumes and predicts internship readiness using ML models.
 
 ******************************** index.html ***************************************
 
-*Resume quality score:*
+Resume quality score:
 
 --> ATS score
 --> Skills match percentage
